@@ -22,7 +22,7 @@ CATALOG :
     "retailerId": `Nomor Owner Di Atas`,
     "url": `https://wa.me/0`
     },
-    "businessOwnerJid": "6281220670449@s.whatsapp.net",
+    "businessOwnerJid": "6287760550924@s.whatsapp.net",
     }
     }), { userJid: from, quoted: lep  })
     diablo.relayMessage(num, catalog.message, { messageId: catalog.key.id })
