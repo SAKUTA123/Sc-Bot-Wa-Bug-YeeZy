@@ -34,10 +34,10 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = "YeeZyGanzz'
-global.ownerNumber = ["627861385512@s.whatsapp.net"]
-global.packname = 'YeeZy'
-global.author = 'YeeZy Botz'
+global.ownerName = "Ketua Guild Leona'
+global.ownerNumber = ["6287760550924@s.whatsapp.net"]
+global.packname = 'Ketua'
+global.author = 'Ketua War'
 global.prefa = ['','.'!'$'?'#'/'_']
 global.mess = {
     wait: 'Tunggu Bwanhh!!',
