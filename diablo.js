@@ -34,7 +34,7 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = "Ketua Guild Leona'
+global.ownerName = 'Ketua Guild Leona'
 global.ownerNumber = ["6287760550924@s.whatsapp.net"]
 global.packname = 'Ketua'
 global.author = 'Ketua War'
